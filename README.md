@@ -256,25 +256,8 @@ The following table summarises the results of the practical exercise.
 | Bidirectional drag and drop | Successful |
 | Virtual machine snapshot | Successful |
 
-## 8. Screenshots and Evidence
 
-Screenshots should be added to this section to demonstrate the actual configuration and test results.
-
-Suggested evidence to capture:
-
-1. VirtualBox NAT Network configuration.
-2. Kali Linux virtual machine settings showing NAT Network.
-3. Kali Linux desktop.
-4. Terminal output showing the network connectivity test.
-5. Terminal output showing DNS resolution.
-6. Shared folder appearing on the Kali desktop.
-7. The test folder appearing in Windows.
-8. Shared Clipboard and Drag and Drop settings.
-9. VirtualBox snapshot showing `My Fresh Kali Linux`.
-
-Screenshots will be added to the repository as evidence of the practical work.
-
-## 9. Lessons Learned
+## 8. Lessons Learned
 
 This practical exercise helped me develop a better understanding of virtualisation and basic network configuration.
 
@@ -289,7 +272,7 @@ Some of the key lessons include:
 - Understanding how snapshots can preserve a virtual machine's state.
 - Learning to troubleshoot configuration problems instead of assuming that settings have been applied successfully.
 
-## 10. Conclusion
+## 9. Conclusion
 
 This practical exercise provided hands-on experience in setting up and configuring a Kali Linux virtual machine using Oracle VirtualBox.
 
