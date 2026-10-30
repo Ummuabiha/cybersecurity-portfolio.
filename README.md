@@ -282,7 +282,7 @@ Although the intended static IP address was not successfully applied, the issue 
 
 Overall, this exercise strengthened my foundational understanding of virtualisation, Linux networking, and virtual machine management as part of my cybersecurity learning journey.
 
-## 11. References
+## 10. References
 
 - Student Lab Setup Repository: https://github.com/Victory-cyber-hub/virtualbox-kali-linux-lab-setup
 - Instructor Sample Repository: https://github.com/waqaskarimccie/NETWORKWALKS-B082-WK1-PM1-CYBERSECURITY-LAB-SETUP-SAMPLE
